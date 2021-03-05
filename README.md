@@ -28,7 +28,7 @@
 <h2>Plik: activity_main z opisem</h2>
 <img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab1/Photos/Zrzut%20ekranu%202021-03-05%20163659.png?raw=true">
 <br>
-<h2>W tym pliku ustawia się opcje wizualne komponentów takich jak przyciski ,przykładowo</h2>
+<h2>W tym pliku ustawia się opcje wizualne komponentów takich jak przyciski</h2>
 <h2>Może zostać tytaj ustawiony styl, w moim przypadku usunąłem obramowanie przycisków, ustawia się też tutaj id komponentu, jego tekst, oraz odwołanie do funkcji w Java (OnClick)</h2>
 <img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab1/Photos/Zrzut%20ekranu%202021-03-05%20163727.png?raw=true">
 <br>
