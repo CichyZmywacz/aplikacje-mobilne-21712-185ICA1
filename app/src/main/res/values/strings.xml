@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">aktywnosciIntencje</string>
+
+    <string name="send">Wyślij do aktywności pierwszej</string>
+    <string name="send2">Wyślij do aktywności drugiej</string>
+    <string name="send3">Wyślij do aktywności trzeciej</string>
+
+    <string name="back">Strona Główna</string>
+
+    <string name="back1">Aktywność 1</string>
+    <string name="back2">Aktywność 2</string>
+    <string name="back3">Aktywność 3</string>
+
+</resources>
