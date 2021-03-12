@@ -10,7 +10,7 @@
 <h2>Wysyłanie wiadomości.</h2>
 <img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab2/Photos/Zrzut%20ekranu%202021-03-12%20152242.png?raw=true">
 <br>
-<h2>Odebranie wiadomości w aktywności nr2.</h2>
+<h2>Odebranie wiadomości w aktywności nr1.</h2>
 <img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab2/Photos/Zrzut%20ekranu%202021-03-12%20152254.png?raw=true">
 <br>
 <h2>Z każdej aktywności można przejśc do dowolnej innej aktywności.</h2>
