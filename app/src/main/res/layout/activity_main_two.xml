@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/frame_layout"
+    tools:context=".MainActivityTwo"
+    tools:ignore="UseSwitchCompatOrMaterialXml">
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:contentDescription="TODO"
+        android:onClick="backToMainActivity"
+        app:srcCompat="@drawable/abc_vector_test"
+        tools:srcCompat="@drawable/ic_image_button" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        android:layout_gravity="top"
+        android:contentDescription="TODO"
+        app:srcCompat="@drawable/ship" />
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:onClick="useSwitch"
+        android:textOff="@string/OFF"
+        android:textOn="@string/ON" />
+
+    <Button
+        android:id="@+id/messageToastBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|bottom"
+        android:onClick="useToastMessage"
+        android:text="@string/messageBTN" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-medium"
+            android:text="Android Studio to oficjalne zintegrowane środowisko programistyczne dla
+            systemu operacyjnego Android firmy Google, zbudowane na oprogramowaniu JetBrains IntelliJ IDEA
+             i zaprojektowane specjalnie na potrzeby rozwoju Androida. Android Studio zostało ogłoszone w dniu
+             16 maja 2013 roku na Google I / O konferencji. Był w fazie wczesnego dostępu, zaczynając od wersji 0.1 w maju 2013,
+             a następnie wszedł w fazę beta począwszy od wersji 0.8, która została wydana w czerwcu 2014. [11] Pierwsza stabilna
+             kompilacja została wydana w grudniu 2014, począwszy od wersji 1.0. [12]
+             7 maja 2019 r.Kotlin zastąpił Javę jako preferowany język Google do tworzenia aplikacji na Androida.
+             Java jest nadal obsługiwana, podobnie jak C ++." />
+    </ScrollView>
+
+</FrameLayout>

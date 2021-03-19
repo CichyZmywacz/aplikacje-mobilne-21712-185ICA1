@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplikacja</string>
+    <string name="buttonBTN">Dalej</string>
+    <string name="tekst">Ulubiony napój ?</string>
+    <string name="cocaCola">CocaCola</string>
+    <string name="Pepsi">Pepsi</string>
+    <string name="wynik">Wynik</string>
+    <string name="rButton">Kobieta</string>
+    <string name="rButton2">Mężczyzna</string>
+    <string name="ON">ON</string>
+    <string name="OFF">OFF</string>
+    <string name="messageBTN">TOAST</string>
+    <string-array name="spinnerItems">
+        <item>Android Studio</item>
+        <item>Visual Studio</item>
+    </string-array>
+</resources>

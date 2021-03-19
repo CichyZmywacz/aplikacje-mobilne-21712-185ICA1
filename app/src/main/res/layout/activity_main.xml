@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="410dp"
+        android:layout_height="41dp"
+        android:onClick="toActivityTwo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints,RtlSymmetry"
+        tools:layout_editor_absoluteY="20dp"
+        tools:layout_marginLeft="10dp"
+        tools:layout_marginRight="10dp"
+        android:text="@string/buttonBTN"
+
+        />
+
+    <TextView
+        android:id="@+id/tekstOpis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tekst"
+        android:fontFamily="sans-serif-condensed-medium"
+        app:layout_constraintTop_toBottomOf="@+id/button3"
+        tools:layout_marginLeft="10dp"
+        tools:layout_marginRight="10dp"
+        tools:ignore="MissingConstraints" />
+
+
+    <CheckBox
+        android:id="@+id/checkBoxCola"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cocaCola"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@+id/tekstOpis"
+        tools:ignore="MissingConstraints" />
+
+    <CheckBox
+        android:id="@+id/checkBoxPepsi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Pepsi"
+        app:layout_constraintTop_toBottomOf="@+id/checkBoxCola"
+        tools:ignore="MissingConstraints" />
+    <Button
+        android:id="@+id/wynik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/wynik"
+        app:layout_constraintTop_toBottomOf="@id/checkBoxPepsi"
+        tools:ignore="MissingConstraints" />
+    <TextView
+        android:id="@+id/wyswietlWynik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-condensed-medium"
+        app:layout_constraintTop_toBottomOf="@id/wynik"
+        tools:ignore="MissingConstraints" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/wyswietlWynik"
+        tools:ignore="MissingConstraints" >
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rButton" />
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rButton2" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textViewRadioButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup"
+        tools:ignore="MissingConstraints" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewRadioButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>
