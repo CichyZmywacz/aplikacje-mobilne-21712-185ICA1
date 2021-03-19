@@ -66,7 +66,7 @@
 <img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab3/Photos/Zrzut%20ekranu%202021-03-19%20143326.png?raw=true">
 <br>
 <hr>
-<b2>Wnioski>/h2>
+<b2>Wnioski</h2>
 <ul>
 <li>android:layout_gravity - określa, w jaki sposób komponent powinien być umieszczony w grupie komórek. Tzn. określa położenie komponentu na ekranie</li>
 <li>android:layout_width - Określa podstawową szerokość widoku. </li>
