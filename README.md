@@ -145,6 +145,26 @@
 <h2>styles.xml</h2>
 <img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab4/Photos/Zrzut%20ekranu%202021-03-26%20193348.jpg?raw=true">
 <br>
-<h2></h2>
-<img src="">
+<hr>
+<h2>Metody onCreateOptionsMenu() oraz onOptionsItemSelected() wraz z opisem.</h2>
+<img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab4/PhotosAndroidmanifest/Zrzut%20ekranu%202021-03-26%20203457.jpg?raw=true">
 <br>
+<hr>
+<h2>Metody getSupportActionBar() i setDisplayHomeAsUpEnabled() wraz z opisem.</h2>
+<img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab4/PhotosAndroidmanifest/Zrzut%20ekranu%202021-03-26%20203543.jpg?raw=true">
+<br>
+<hr>
+<h2>Dla InfoActivity ustawiona została aktywność nadrzędną w pliku manifestu na aktywnośc główną. </h2>
+<h2>ten kod :</h2>
+<ul>
+  <li>Zmienia napis na pasku narzędzi gdy przechodzimy między aktywnościami. Przykładowo dla Google wyświetli Google Pixel.</li>
+  <li>Dla wszystkich aktywności ustawiłem aktywność nadrzędną w pliku manifestu na aktywnośc główną. Aby mozna było wracac do głównej aktywności szybko i wygodnie.</li>
+  <li>Ustawiony tutaj jest też motyw, android:theme. Zmieniający kolorystyczny wygląd aplikacji.</li>
+</ul>
+<img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab4/PhotosAndroidmanifest/Zrzut%20ekranu%202021-03-26%20203602.jpg?raw=true">
+<br>
+<h2></h2>
+<img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab4/PhotosAndroidmanifest/Zrzut%20ekranu%202021-03-26%20203613.jpg?raw=true">
+<br>
+<hr>
+
