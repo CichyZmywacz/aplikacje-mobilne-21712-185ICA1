@@ -40,7 +40,7 @@
 <h2>Wszystkie akcesoria są wyświetlane na tej samej aktywności.</h2>
 <img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab4/Application%20photos/Zrzut%20ekranu%202021-03-26%20193835.jpg?raw=true">
 <br>
-<h2>na ToolBar widnieje przycisk (i) przenoszący nas do aktywności AboutActivity.</h2>
+<h2>na ToolBar widnieje przycisk (i) przenoszący nas do aktywności InfoActivity.</h2>
 <img src="https://github.com/CichyZmywacz/aplikacje-mobilne-21712-185ICA1/blob/Lab4/Application%20photos/Zrzut%20ekranu%202021-03-26%20193852.jpg?raw=true">
 <br>
 <h2>W tej aktywności jest krótki opis, oraz przycisk powrotu do głównej aktywności.</h2>
