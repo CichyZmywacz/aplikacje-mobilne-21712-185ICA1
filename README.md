@@ -3,4 +3,6 @@
   <li>Kalkulator - ✔ </li>
   <li>Aktywności i intencje - ✔ </li>
   <li>Widoki i grupy widoków w różnych układach - ✔ </li>
+  <li>Widoki list, adaptery, paski aplikacji …  ✔</li>
+  <li>Fragmenty - in progress</li>
  </ul>
