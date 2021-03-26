@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplikacja</string>
+    <string name="mainActivity">Strona Główna Aplikacji</string>
+    <string name="iphone">iPhone</string>
+    <string name="google">Google Pixel</string>
+    <string name="accessories">Akcesoria do telefonów</string>
+    <string name="opisObrazka">opisObrazka</string>
+    <string name="about">O stronie</string>
+    <string-array name="options">
+        <item>iPhone</item>
+        <item>Google Pixel</item>
+        <item>Akcesoria</item>
+    </string-array>
+    <string name="aboutText">Widoki list, adaptery, paski aplikacji.</string>
+</resources>
