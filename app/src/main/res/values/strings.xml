@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragmenty</string>
+    <string name="main_btn">Pokaż szczegóły</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentTitle">Audi RS6</string>
+    <string name="fragmentDescription">Silnik w gazie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="info">Włącz stoper, i zobacz ile zajmie ci kupienie tego auta !!</string>
+</resources>
