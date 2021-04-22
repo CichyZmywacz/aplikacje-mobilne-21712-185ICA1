@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Baza SQLite</string>
+    <string name="mainActivity">Strona Główna Aplikacji</string>
+    <string name="iphone">iPhone</string>
+    <string name="google">Google Pixel</string>
+    <string name="accessories">Akcesoria do telefonów</string>
+    <string name="opisObrazka">opisObrazka</string>
+    <string name="about">O stronie</string>
+    <string-array name="options">
+        <item>Apple</item>
+        <item>Google Pixel</item>
+        <item>Akcesoria</item>
+    </string-array>
+    <string name="aboutText">Widoki list, adaptery, paski aplikacji.</string>
+    <string name="favorite">Ulubiony</string>
+    <string name="favorites">Ulubione produkty</string>
+</resources>
